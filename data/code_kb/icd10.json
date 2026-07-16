@@ -1,0 +1,1057 @@
+[
+  {
+    "code": "A00.0",
+    "description": "Cholera due to Vibrio cholerae 01, biovar cholerae",
+    "guideline": "Code first if known infectious agent; report as principal diagnosis if reason for encounter"
+  },
+  {
+    "code": "A01.00",
+    "description": "Typhoid fever, unspecified",
+    "guideline": "Use additional code to identify any associated complications"
+  },
+  {
+    "code": "A02.0",
+    "description": "Salmonella enteritis",
+    "guideline": "Do not code with A02.9 together; sequence based on encounter reason"
+  },
+  {
+    "code": "A04.7",
+    "description": "Enterocolitis due to Clostridium difficile",
+    "guideline": "Use additional code for recurrent infection if applicable"
+  },
+  {
+    "code": "A09",
+    "description": "Infectious gastroenteritis and colitis, unspecified",
+    "guideline": "Exclude noninfectious gastroenteritis (K52.9)"
+  },
+  {
+    "code": "A15.0",
+    "description": "Tuberculosis of lung",
+    "guideline": "Use additional code to identify exposure to secondhand smoke"
+  },
+  {
+    "code": "A41.9",
+    "description": "Sepsis, unspecified organism",
+    "guideline": "Code also associated acute organ dysfunction"
+  },
+  {
+    "code": "A49.9",
+    "description": "Bacterial infection, unspecified",
+    "guideline": "Use as principal diagnosis only when site is unspecified"
+  },
+  {
+    "code": "B00.1",
+    "description": "Herpesviral vesicular dermatitis",
+    "guideline": "Use additional code to identify manifestation"
+  },
+  {
+    "code": "B02.9",
+    "description": "Zoster without complications",
+    "guideline": "Do not use with B02.0-B02.8 together"
+  },
+  {
+    "code": "B18.2",
+    "description": "Chronic viral hepatitis C",
+    "guideline": "Use additional code for associated liver conditions"
+  },
+  {
+    "code": "B20",
+    "description": "Human immunodeficiency virus disease",
+    "guideline": "Code all related conditions; sequence as principal diagnosis if HIV related"
+  },
+  {
+    "code": "B34.9",
+    "description": "Viral infection, unspecified",
+    "guideline": "Nonspecific code, use only if no further information available"
+  },
+  {
+    "code": "B37.0",
+    "description": "Candidal stomatitis",
+    "guideline": "Use additional code for underlying immunodeficiency"
+  },
+  {
+    "code": "B95.61",
+    "description": "Methicillin susceptible Staphylococcus aureus infection",
+    "guideline": "Use in conjunction with code for infection site"
+  },
+  {
+    "code": "C18.9",
+    "description": "Malignant neoplasm of colon, unspecified",
+    "guideline": "Code also any functional activity"
+  },
+  {
+    "code": "C34.90",
+    "description": "Malignant neoplasm of unspecified part of bronchus or lung",
+    "guideline": "Use additional code for tobacco use if applicable"
+  },
+  {
+    "code": "C50.911",
+    "description": "Malignant neoplasm of unspecified site of right female breast",
+    "guideline": "Sequence as principal diagnosis for cancer treatment episode"
+  },
+  {
+    "code": "C61",
+    "description": "Malignant neoplasm of prostate",
+    "guideline": "Code also any metastatic sites separately"
+  },
+  {
+    "code": "C64.9",
+    "description": "Malignant neoplasm of unspecified kidney, except renal pelvis",
+    "guideline": "Do not use with C64.1/C64.2 together"
+  },
+  {
+    "code": "C71.9",
+    "description": "Malignant neoplasm of brain, unspecified",
+    "guideline": "Use additional code for neurological deficits"
+  },
+  {
+    "code": "C77.9",
+    "description": "Secondary and unspecified malignant neoplasm of lymph node, unspecified",
+    "guideline": "Sequence after primary malignancy code"
+  },
+  {
+    "code": "C80.1",
+    "description": "Malignant neoplasm, unspecified",
+    "guideline": "Use only when primary site cannot be determined"
+  },
+  {
+    "code": "D12.6",
+    "description": "Benign neoplasm of colon, unspecified",
+    "guideline": "Code also any associated polyposis syndrome"
+  },
+  {
+    "code": "D17.9",
+    "description": "Benign lipomatous neoplasm, unspecified",
+    "guideline": "Use additional code for anatomical site if known"
+  },
+  {
+    "code": "D25.9",
+    "description": "Leiomyoma of uterus, unspecified",
+    "guideline": "Code also any associated symptoms of menorrhagia"
+  },
+  {
+    "code": "D50.9",
+    "description": "Iron deficiency anemia, unspecified",
+    "guideline": "Use additional code to identify cause of anemia"
+  },
+  {
+    "code": "D64.9",
+    "description": "Anemia, unspecified",
+    "guideline": "Do not use as principal code if underlying cause identified"
+  },
+  {
+    "code": "D68.9",
+    "description": "Coagulation defect, unspecified",
+    "guideline": "Use additional code for bleeding complications"
+  },
+  {
+    "code": "D69.6",
+    "description": "Thrombocytopenia, unspecified",
+    "guideline": "Code first if drug induced (T36-T50)"
+  },
+  {
+    "code": "D70.9",
+    "description": "Neutropenia, unspecified",
+    "guideline": "Use additional code for associated infections"
+  },
+  {
+    "code": "E03.9",
+    "description": "Hypothyroidism, unspecified",
+    "guideline": "Code also any associated goiter"
+  },
+  {
+    "code": "E05.90",
+    "description": "Thyrotoxicosis, unspecified without thyrotoxic crisis",
+    "guideline": "Use additional code for underlying cause"
+  },
+  {
+    "code": "E10.9",
+    "description": "Type 1 diabetes mellitus without complications",
+    "guideline": "Code first any long-term insulin use (Z79.4)"
+  },
+  {
+    "code": "E11.9",
+    "description": "Type 2 diabetes mellitus without complications",
+    "guideline": "Use additional code for BMI if documented"
+  },
+  {
+    "code": "E11.65",
+    "description": "Type 2 diabetes mellitus with hyperglycemia",
+    "guideline": "Code also any associated ketoacidosis"
+  },
+  {
+    "code": "E13.9",
+    "description": "Other specified diabetes mellitus without complications",
+    "guideline": "Do not use with E10 or E11 together"
+  },
+  {
+    "code": "E22.2",
+    "description": "Syndrome of inappropriate secretion of antidiuretic hormone",
+    "guideline": "Use additional code for underlying cause"
+  },
+  {
+    "code": "E27.40",
+    "description": "Unspecified adrenocortical insufficiency",
+    "guideline": "Code also any associated electrolyte imbalance"
+  },
+  {
+    "code": "E28.2",
+    "description": "Polycystic ovarian syndrome",
+    "guideline": "Use additional code for infertility if applicable"
+  },
+  {
+    "code": "E43",
+    "description": "Unspecified severe protein-calorie malnutrition",
+    "guideline": "Sequence as principal diagnosis for malnutrition treatment"
+  },
+  {
+    "code": "E66.9",
+    "description": "Obesity, unspecified",
+    "guideline": "Use additional code for BMI value"
+  },
+  {
+    "code": "E78.5",
+    "description": "Hyperlipidemia, unspecified",
+    "guideline": "Code also any associated cardiovascular disease"
+  },
+  {
+    "code": "E86.0",
+    "description": "Dehydration",
+    "guideline": "Use additional code for underlying cause"
+  },
+  {
+    "code": "E87.1",
+    "description": "Hypo-osmolality and hyponatremia",
+    "guideline": "Code also associated syndrome if known"
+  },
+  {
+    "code": "F10.20",
+    "description": "Alcohol dependence, uncomplicated",
+    "guideline": "Use additional code for withdrawal symptoms"
+  },
+  {
+    "code": "F17.210",
+    "description": "Nicotine dependence, cigarettes, uncomplicated",
+    "guideline": "Code also any tobacco related disorder"
+  },
+  {
+    "code": "F32.9",
+    "description": "Major depressive disorder, single episode, unspecified",
+    "guideline": "Do not use with F33 (recurrent) together"
+  },
+  {
+    "code": "F41.1",
+    "description": "Generalized anxiety disorder",
+    "guideline": "Use additional code for co-occurring substance use"
+  },
+  {
+    "code": "F43.10",
+    "description": "Post-traumatic stress disorder, unspecified",
+    "guideline": "Code also any associated sleep disorder"
+  },
+  {
+    "code": "F84.0",
+    "description": "Autistic disorder",
+    "guideline": "Use additional code for intellectual disabilities if present"
+  },
+  {
+    "code": "F90.9",
+    "description": "Attention-deficit hyperactivity disorder, unspecified type",
+    "guideline": "Sequence as principal diagnosis for behavioral treatment"
+  },
+  {
+    "code": "G20",
+    "description": "Parkinson's disease",
+    "guideline": "Use additional code for dementia if present"
+  },
+  {
+    "code": "G30.9",
+    "description": "Alzheimer's disease, unspecified",
+    "guideline": "Code also dementia with behavioral disturbance"
+  },
+  {
+    "code": "G40.909",
+    "description": "Epilepsy, unspecified, not intractable, without status epilepticus",
+    "guideline": "Use additional code for seizure type if known"
+  },
+  {
+    "code": "G43.909",
+    "description": "Migraine, unspecified, not intractable, without status migrainosus",
+    "guideline": "Do not code with G44 (other headache) together"
+  },
+  {
+    "code": "G45.9",
+    "description": "Transient cerebral ischemic attack, unspecified",
+    "guideline": "Use additional code to identify risk factors"
+  },
+  {
+    "code": "G47.33",
+    "description": "Obstructive sleep apnea",
+    "guideline": "Code also any associated obesity"
+  },
+  {
+    "code": "G80.9",
+    "description": "Cerebral palsy, unspecified",
+    "guideline": "Use additional code for associated intellectual disability"
+  },
+  {
+    "code": "G93.1",
+    "description": "Anoxic brain damage, not elsewhere classified",
+    "guideline": "Code also underlying cause of hypoxia"
+  },
+  {
+    "code": "H10.9",
+    "description": "Unspecified conjunctivitis",
+    "guideline": "Use additional code for causative organism"
+  },
+  {
+    "code": "H25.9",
+    "description": "Unspecified age-related cataract",
+    "guideline": "Code also laterality if documented"
+  },
+  {
+    "code": "H35.30",
+    "description": "Unspecified macular degeneration",
+    "guideline": "Use additional code for stage if known"
+  },
+  {
+    "code": "H40.9",
+    "description": "Unspecified glaucoma",
+    "guideline": "Do not code bilateral condition with unilateral code"
+  },
+  {
+    "code": "H52.4",
+    "description": "Presbyopia",
+    "guideline": "Sequence as principal diagnosis only for vision-related encounter"
+  },
+  {
+    "code": "H60.90",
+    "description": "Unspecified otitis externa",
+    "guideline": "Use additional code for causative organism"
+  },
+  {
+    "code": "H66.90",
+    "description": "Otitis media, unspecified",
+    "guideline": "Code also any associated hearing loss"
+  },
+  {
+    "code": "H90.3",
+    "description": "Sensorineural hearing loss, bilateral",
+    "guideline": "Use additional code for hearing aid usage"
+  },
+  {
+    "code": "H93.19",
+    "description": "Tinnitus, unspecified ear",
+    "guideline": "Code also underlying cause if known"
+  },
+  {
+    "code": "I10",
+    "description": "Essential (primary) hypertension",
+    "guideline": "Code also any hypertensive heart or kidney disease"
+  },
+  {
+    "code": "I21.9",
+    "description": "Acute myocardial infarction, unspecified",
+    "guideline": "Sequence as principal diagnosis for acute event"
+  },
+  {
+    "code": "I25.10",
+    "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+    "guideline": "Use additional code for tobacco use"
+  },
+  {
+    "code": "I48.91",
+    "description": "Unspecified atrial fibrillation",
+    "guideline": "Code also anticoagulant therapy status"
+  },
+  {
+    "code": "I50.9",
+    "description": "Heart failure, unspecified",
+    "guideline": "Use additional code for ejection fraction if documented"
+  },
+  {
+    "code": "I63.9",
+    "description": "Cerebral infarction, unspecified",
+    "guideline": "Code also any residual neurological deficits"
+  },
+  {
+    "code": "I67.2",
+    "description": "Cerebral atherosclerosis",
+    "guideline": "Use additional code for hypertension if present"
+  },
+  {
+    "code": "I70.90",
+    "description": "Unspecified atherosclerosis",
+    "guideline": "Code also affected extremity"
+  },
+  {
+    "code": "I73.9",
+    "description": "Peripheral vascular disease, unspecified",
+    "guideline": "Use additional code for diabetes if underlying cause"
+  },
+  {
+    "code": "I80.201",
+    "description": "Phlebitis and thrombophlebitis of unspecified deep vessels of right lower extremity",
+    "guideline": "Code also any anticoagulant therapy"
+  },
+  {
+    "code": "J02.9",
+    "description": "Acute pharyngitis, unspecified",
+    "guideline": "Use additional code for causative organism"
+  },
+  {
+    "code": "J06.9",
+    "description": "Acute upper respiratory infection, unspecified",
+    "guideline": "Do not use with more specific respiratory infection code"
+  },
+  {
+    "code": "J09.X2",
+    "description": "Influenza due to identified novel influenza A virus with other respiratory manifestations",
+    "guideline": "Code also pneumonia if present"
+  },
+  {
+    "code": "J18.9",
+    "description": "Pneumonia, unspecified organism",
+    "guideline": "Use additional code for causative organism if known"
+  },
+  {
+    "code": "J20.9",
+    "description": "Acute bronchitis, unspecified",
+    "guideline": "Code also any tobacco use disorder"
+  },
+  {
+    "code": "J44.9",
+    "description": "Chronic obstructive pulmonary disease, unspecified",
+    "guideline": "Use additional code for exacerbation if applicable"
+  },
+  {
+    "code": "J45.909",
+    "description": "Unspecified asthma, uncomplicated",
+    "guideline": "Do not use with J45.901 (with exacerbation) together"
+  },
+  {
+    "code": "J81.0",
+    "description": "Acute pulmonary edema",
+    "guideline": "Code also underlying cardiac condition"
+  },
+  {
+    "code": "J96.00",
+    "description": "Acute respiratory failure, unspecified whether with hypoxia or hypercapnia",
+    "guideline": "Sequence based on clinical significance"
+  },
+  {
+    "code": "K21.9",
+    "description": "Gastro-esophageal reflux disease without esophagitis",
+    "guideline": "Use additional code for Barrett's esophagus if present"
+  },
+  {
+    "code": "K25.9",
+    "description": "Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",
+    "guideline": "Code also H. pylori infection if identified"
+  },
+  {
+    "code": "K29.70",
+    "description": "Gastritis, unspecified, without bleeding",
+    "guideline": "Use additional code for causative agent"
+  },
+  {
+    "code": "K35.80",
+    "description": "Unspecified acute appendicitis",
+    "guideline": "Sequence as principal diagnosis for surgical encounter"
+  },
+  {
+    "code": "K40.90",
+    "description": "Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent",
+    "guideline": "Code also laterality"
+  },
+  {
+    "code": "K57.30",
+    "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+    "guideline": "Use additional code for bleeding if present"
+  },
+  {
+    "code": "K59.00",
+    "description": "Constipation, unspecified",
+    "guideline": "Do not use with more specific constipation code"
+  },
+  {
+    "code": "K70.30",
+    "description": "Alcoholic cirrhosis of liver without ascites",
+    "guideline": "Code also alcohol dependence if applicable"
+  },
+  {
+    "code": "K72.90",
+    "description": "Hepatic failure, unspecified without coma",
+    "guideline": "Use additional code for underlying cause"
+  },
+  {
+    "code": "K80.20",
+    "description": "Calculus of gallbladder without cholecystitis without obstruction",
+    "guideline": "Code also any associated pancreatitis"
+  },
+  {
+    "code": "K85.90",
+    "description": "Acute pancreatitis without necrosis or infection, unspecified",
+    "guideline": "Use additional code for alcohol use if applicable"
+  },
+  {
+    "code": "L02.91",
+    "description": "Cutaneous abscess, unspecified",
+    "guideline": "Code also causative organism"
+  },
+  {
+    "code": "L03.90",
+    "description": "Cellulitis, unspecified",
+    "guideline": "Use additional code for causative organism"
+  },
+  {
+    "code": "L20.9",
+    "description": "Atopic dermatitis, unspecified",
+    "guideline": "Do not code with contact dermatitis together"
+  },
+  {
+    "code": "L40.9",
+    "description": "Psoriasis, unspecified",
+    "guideline": "Code also any associated arthropathy"
+  },
+  {
+    "code": "L50.9",
+    "description": "Urticaria, unspecified",
+    "guideline": "Use additional code for causative allergen"
+  },
+  {
+    "code": "L89.90",
+    "description": "Pressure ulcer of unspecified site, unspecified stage",
+    "guideline": "Code also laterality and stage if documented"
+  },
+  {
+    "code": "L98.9",
+    "description": "Disorder of the skin and subcutaneous tissue, unspecified",
+    "guideline": "Use only if more specific code unavailable"
+  },
+  {
+    "code": "M06.9",
+    "description": "Rheumatoid arthritis, unspecified",
+    "guideline": "Code also any associated organ involvement"
+  },
+  {
+    "code": "M15.9",
+    "description": "Polyosteoarthritis, unspecified",
+    "guideline": "Use additional code for affected joints"
+  },
+  {
+    "code": "M17.9",
+    "description": "Osteoarthritis of knee, unspecified",
+    "guideline": "Code also laterality"
+  },
+  {
+    "code": "M19.90",
+    "description": "Unspecified osteoarthritis, unspecified site",
+    "guideline": "Do not use with more specific osteoarthritis code"
+  },
+  {
+    "code": "M25.50",
+    "description": "Pain in unspecified joint",
+    "guideline": "Use additional code for underlying cause"
+  },
+  {
+    "code": "M32.9",
+    "description": "Systemic lupus erythematosus, unspecified",
+    "guideline": "Code also any organ involvement"
+  },
+  {
+    "code": "M41.9",
+    "description": "Scoliosis, unspecified",
+    "guideline": "Use additional code for underlying cause if congenital"
+  },
+  {
+    "code": "M47.816",
+    "description": "Spondylosis without myelopathy or radiculopathy, lumbar region",
+    "guideline": "Code also any associated disc degeneration"
+  },
+  {
+    "code": "M51.36",
+    "description": "Other intervertebral disc degeneration, lumbar region",
+    "guideline": "Use additional code for radiculopathy if present"
+  },
+  {
+    "code": "M54.5",
+    "description": "Low back pain",
+    "guideline": "Sequence as principal diagnosis only when specific cause unknown"
+  },
+  {
+    "code": "M62.81",
+    "description": "Muscle weakness (generalized)",
+    "guideline": "Code also underlying neurological condition"
+  },
+  {
+    "code": "M79.7",
+    "description": "Fibromyalgia",
+    "guideline": "Use additional code for associated sleep disturbance"
+  },
+  {
+    "code": "N17.9",
+    "description": "Acute kidney failure, unspecified",
+    "guideline": "Code also underlying cause and stage"
+  },
+  {
+    "code": "N18.9",
+    "description": "Chronic kidney disease, unspecified",
+    "guideline": "Use additional code for stage (N18.1-N18.6)"
+  },
+  {
+    "code": "N20.0",
+    "description": "Calculus of kidney",
+    "guideline": "Code also any associated hydronephrosis"
+  },
+  {
+    "code": "N30.90",
+    "description": "Cystitis, unspecified without hematuria",
+    "guideline": "Use additional code for causative organism"
+  },
+  {
+    "code": "N39.0",
+    "description": "Urinary tract infection, site not specified",
+    "guideline": "Do not use with site-specific UTI code together"
+  },
+  {
+    "code": "N40.0",
+    "description": "Enlarged prostate without lower urinary tract symptoms",
+    "guideline": "Use additional code for symptoms if present"
+  },
+  {
+    "code": "N60.9",
+    "description": "Unspecified benign mammary dysplasia",
+    "guideline": "Code also laterality"
+  },
+  {
+    "code": "N76.0",
+    "description": "Acute vaginitis",
+    "guideline": "Use additional code for causative organism"
+  },
+  {
+    "code": "N93.9",
+    "description": "Abnormal uterine and vaginal bleeding, unspecified",
+    "guideline": "Code also any associated fibroids"
+  },
+  {
+    "code": "O10.911",
+    "description": "Unspecified pre-existing hypertension complicating pregnancy, first trimester",
+    "guideline": "Code also trimester and hypertension type"
+  },
+  {
+    "code": "O24.419",
+    "description": "Gestational diabetes mellitus in pregnancy, unspecified control",
+    "guideline": "Sequence as principal diagnosis during pregnancy encounter"
+  },
+  {
+    "code": "O26.90",
+    "description": "Pregnancy related conditions, unspecified, unspecified trimester",
+    "guideline": "Use additional code for specific condition"
+  },
+  {
+    "code": "O80",
+    "description": "Encounter for full-term uncomplicated delivery",
+    "guideline": "Do not use with any complication codes"
+  },
+  {
+    "code": "O99.89",
+    "description": "Other specified diseases and conditions complicating pregnancy",
+    "guideline": "Code also the specific condition"
+  },
+  {
+    "code": "P07.30",
+    "description": "Preterm newborn, unspecified weeks of gestation",
+    "guideline": "Use additional code for birth weight"
+  },
+  {
+    "code": "P22.0",
+    "description": "Respiratory distress syndrome of newborn",
+    "guideline": "Code also any associated prematurity"
+  },
+  {
+    "code": "P59.9",
+    "description": "Neonatal jaundice, unspecified",
+    "guideline": "Use additional code for cause if known"
+  },
+  {
+    "code": "Q21.0",
+    "description": "Ventricular septal defect",
+    "guideline": "Code also any associated cardiac anomalies"
+  },
+  {
+    "code": "Q90.9",
+    "description": "Down syndrome, unspecified",
+    "guideline": "Use additional code for associated conditions"
+  },
+  {
+    "code": "R00.0",
+    "description": "Tachycardia, unspecified",
+    "guideline": "Code also underlying cause if known"
+  },
+  {
+    "code": "R05",
+    "description": "Cough",
+    "guideline": "Do not use as principal diagnosis if underlying cause identified"
+  },
+  {
+    "code": "R06.02",
+    "description": "Shortness of breath",
+    "guideline": "Use additional code for underlying respiratory condition"
+  },
+  {
+    "code": "R07.9",
+    "description": "Chest pain, unspecified",
+    "guideline": "Code also cardiac workup findings if available"
+  },
+  {
+    "code": "R10.9",
+    "description": "Unspecified abdominal pain",
+    "guideline": "Use additional code for location if known"
+  },
+  {
+    "code": "R11.10",
+    "description": "Vomiting, unspecified",
+    "guideline": "Do not use with more specific gastrointestinal code"
+  },
+  {
+    "code": "R19.7",
+    "description": "Diarrhea, unspecified",
+    "guideline": "Code also causative organism if identified"
+  },
+  {
+    "code": "R42",
+    "description": "Dizziness and giddiness",
+    "guideline": "Use additional code for underlying vestibular disorder"
+  },
+  {
+    "code": "R50.9",
+    "description": "Fever, unspecified",
+    "guideline": "Sequence as principal diagnosis only if cause unknown"
+  },
+  {
+    "code": "R51",
+    "description": "Headache",
+    "guideline": "Do not use with migraine specific code together"
+  },
+  {
+    "code": "R53.83",
+    "description": "Other fatigue",
+    "guideline": "Code also underlying chronic condition"
+  },
+  {
+    "code": "R55",
+    "description": "Syncope and collapse",
+    "guideline": "Use additional code for cardiac cause if identified"
+  },
+  {
+    "code": "R56.9",
+    "description": "Unspecified convulsions",
+    "guideline": "Code also epilepsy if diagnosed"
+  },
+  {
+    "code": "R60.9",
+    "description": "Edema, unspecified",
+    "guideline": "Use additional code for underlying cause"
+  },
+  {
+    "code": "R73.03",
+    "description": "Prediabetes",
+    "guideline": "Code also obesity if present"
+  },
+  {
+    "code": "S01.01XA",
+    "description": "Laceration without foreign body of scalp, initial encounter",
+    "guideline": "Use seventh character for encounter type"
+  },
+  {
+    "code": "S06.0X0A",
+    "description": "Concussion without loss of consciousness, initial encounter",
+    "guideline": "Code also any associated symptoms"
+  },
+  {
+    "code": "S22.000A",
+    "description": "Wedge compression fracture of unspecified thoracic vertebra, initial encounter",
+    "guideline": "Use additional code for cause of injury"
+  },
+  {
+    "code": "S32.009A",
+    "description": "Unspecified fracture of unspecified lumbar vertebra, initial encounter",
+    "guideline": "Code also spinal cord injury if present"
+  },
+  {
+    "code": "S42.001A",
+    "description": "Fracture of unspecified part of right clavicle, initial encounter",
+    "guideline": "Use seventh character for encounter type"
+  },
+  {
+    "code": "S52.501A",
+    "description": "Unspecified fracture of the lower end of right radius, initial encounter",
+    "guideline": "Code also displacement if known"
+  },
+  {
+    "code": "S72.001A",
+    "description": "Fracture of unspecified part of neck of right femur, initial encounter",
+    "guideline": "Use additional code for cause of fall"
+  },
+  {
+    "code": "S82.101A",
+    "description": "Unspecified fracture of upper end of right tibia, initial encounter",
+    "guideline": "Code also laterality"
+  },
+  {
+    "code": "S93.401A",
+    "description": "Sprain of unspecified ligament of right ankle, initial encounter",
+    "guideline": "Do not use with fracture code for same site"
+  },
+  {
+    "code": "T14.90XA",
+    "description": "Injury, unspecified, initial encounter",
+    "guideline": "Use only when specific injury site unknown"
+  },
+  {
+    "code": "T17.200A",
+    "description": "Foreign body in pharynx causing asphyxiation, initial encounter",
+    "guideline": "Code also any associated respiratory distress"
+  },
+  {
+    "code": "T36.0X1A",
+    "description": "Poisoning by penicillins, accidental (unintentional), initial encounter",
+    "guideline": "Use additional code for adverse effect symptoms"
+  },
+  {
+    "code": "T39.1X1A",
+    "description": "Poisoning by 4-Aminophenol derivatives, accidental, initial encounter",
+    "guideline": "Code also liver damage if present"
+  },
+  {
+    "code": "T50.901A",
+    "description": "Poisoning by unspecified drugs, accidental, initial encounter",
+    "guideline": "Use additional code for specific substance if identified"
+  },
+  {
+    "code": "T78.40XA",
+    "description": "Allergy, unspecified, initial encounter",
+    "guideline": "Code also causative allergen if known"
+  },
+  {
+    "code": "T81.4XXA",
+    "description": "Infection following a procedure, initial encounter",
+    "guideline": "Use additional code for causative organism"
+  },
+  {
+    "code": "V43.52XA",
+    "description": "Car passenger injured in collision with car, pickup truck or van in traffic accident, initial encounter",
+    "guideline": "Use additional external cause code for activity"
+  },
+  {
+    "code": "W01.0XXA",
+    "description": "Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",
+    "guideline": "Code also place of occurrence"
+  },
+  {
+    "code": "W19.XXXA",
+    "description": "Unspecified fall, initial encounter",
+    "guideline": "Use only when fall mechanism unknown"
+  },
+  {
+    "code": "X58.XXXA",
+    "description": "Exposure to other specified factors, initial encounter",
+    "guideline": "Code also underlying injury"
+  },
+  {
+    "code": "Y92.9",
+    "description": "Unspecified place or not applicable",
+    "guideline": "Use additional code for activity at time of injury"
+  },
+  {
+    "code": "Z00.00",
+    "description": "Encounter for general adult medical examination without abnormal findings",
+    "guideline": "Sequence as principal diagnosis for routine visit"
+  },
+  {
+    "code": "Z01.419",
+    "description": "Encounter for gynecological examination without abnormal findings",
+    "guideline": "Do not use with symptomatic visit code"
+  },
+  {
+    "code": "Z12.11",
+    "description": "Encounter for screening for malignant neoplasm of colon",
+    "guideline": "Code also family history if applicable"
+  },
+  {
+    "code": "Z13.6",
+    "description": "Encounter for screening for cardiovascular disorders",
+    "guideline": "Use additional code for risk factors identified"
+  },
+  {
+    "code": "Z23",
+    "description": "Encounter for immunization",
+    "guideline": "Code also specific vaccine administered"
+  },
+  {
+    "code": "Z34.90",
+    "description": "Encounter for supervision of normal pregnancy, unspecified trimester",
+    "guideline": "Use additional code for trimester"
+  },
+  {
+    "code": "Z51.11",
+    "description": "Encounter for antineoplastic chemotherapy",
+    "guideline": "Code also malignancy being treated"
+  },
+  {
+    "code": "Z71.3",
+    "description": "Dietary counseling and surveillance",
+    "guideline": "Use as principal diagnosis for nutrition counseling visit"
+  },
+  {
+    "code": "Z79.4",
+    "description": "Long term (current) use of insulin",
+    "guideline": "Code also diabetes type"
+  },
+  {
+    "code": "Z79.899",
+    "description": "Other long term (current) drug therapy",
+    "guideline": "Use additional code for specific medication class"
+  },
+  {
+    "code": "Z85.038",
+    "description": "Personal history of other malignant neoplasm of large intestine",
+    "guideline": "Code also current surveillance encounter"
+  },
+  {
+    "code": "Z86.73",
+    "description": "Personal history of transient ischemic attack, and cerebral infarction without residual deficits",
+    "guideline": "Use additional code for current risk factors"
+  },
+  {
+    "code": "Z87.891",
+    "description": "Personal history of nicotine dependence",
+    "guideline": "Code also current tobacco use status if relapsed"
+  },
+  {
+    "code": "Z91.19",
+    "description": "Patient's noncompliance with other medical treatment and regimen",
+    "guideline": "Use additional code for reason for noncompliance"
+  },
+  {
+    "code": "Z95.1",
+    "description": "Presence of aortocoronary bypass graft",
+    "guideline": "Code also underlying coronary artery disease"
+  },
+  {
+    "code": "Z96.641",
+    "description": "Presence of right artificial hip joint",
+    "guideline": "Use additional code for joint replacement complications if any"
+  },
+  {
+    "code": "Z98.890",
+    "description": "Other specified postprocedural states",
+    "guideline": "Code also specific procedure history"
+  },
+  {
+    "code": "Z99.11",
+    "description": "Dependence on respirator, status",
+    "guideline": "Use additional code for underlying respiratory failure"
+  },
+  {
+    "code": "E11.22",
+    "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+    "guideline": "Code also stage of chronic kidney disease"
+  },
+  {
+    "code": "E11.40",
+    "description": "Type 2 diabetes mellitus with diabetic neuropathy, unspecified",
+    "guideline": "Use additional code for specific neuropathy type"
+  },
+  {
+    "code": "E11.319",
+    "description": "Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema",
+    "guideline": "Code also laterality if known"
+  },
+  {
+    "code": "I11.0",
+    "description": "Hypertensive heart disease with heart failure",
+    "guideline": "Use additional code to specify type of heart failure"
+  },
+  {
+    "code": "I13.10",
+    "description": "Hypertensive heart and chronic kidney disease without heart failure, with stage 1-4 CKD",
+    "guideline": "Code also CKD stage"
+  },
+  {
+    "code": "I25.2",
+    "description": "Old myocardial infarction",
+    "guideline": "Do not use for current acute MI"
+  },
+  {
+    "code": "J43.9",
+    "description": "Emphysema, unspecified",
+    "guideline": "Code also tobacco use disorder"
+  },
+  {
+    "code": "J47.9",
+    "description": "Bronchiectasis, uncomplicated",
+    "guideline": "Use additional code for causative organism during exacerbation"
+  },
+  {
+    "code": "K50.90",
+    "description": "Crohn's disease, unspecified, without complications",
+    "guideline": "Code also any associated malnutrition"
+  },
+  {
+    "code": "K51.90",
+    "description": "Ulcerative colitis, unspecified, without complications",
+    "guideline": "Use additional code for extent of disease"
+  },
+  {
+    "code": "M05.9",
+    "description": "Rheumatoid arthritis with rheumatoid factor, unspecified",
+    "guideline": "Code also organ or system involvement"
+  },
+  {
+    "code": "M81.0",
+    "description": "Age-related osteoporosis without current pathological fracture",
+    "guideline": "Use additional code if fracture present"
+  },
+  {
+    "code": "N18.30",
+    "description": "Chronic kidney disease, stage 3 unspecified",
+    "guideline": "Code also underlying cause"
+  },
+  {
+    "code": "N18.4",
+    "description": "Chronic kidney disease, stage 4 (severe)",
+    "guideline": "Use additional code for dialysis status if applicable"
+  },
+  {
+    "code": "N18.6",
+    "description": "End stage renal disease",
+    "guideline": "Code also dialysis status (Z99.2)"
+  },
+  {
+    "code": "Z99.2",
+    "description": "Dependence on renal dialysis",
+    "guideline": "Use additional code for underlying renal disease"
+  },
+  {
+    "code": "F31.9",
+    "description": "Bipolar disorder, unspecified",
+    "guideline": "Code also current episode type if known"
+  },
+  {
+    "code": "F20.9",
+    "description": "Schizophrenia, unspecified",
+    "guideline": "Use additional code for associated substance use"
+  },
+  {
+    "code": "G35",
+    "description": "Multiple sclerosis",
+    "guideline": "Code also associated neurological deficits"
+  },
+  {
+    "code": "M06.08",
+    "description": "Rheumatoid arthritis without rheumatoid factor, unspecified",
+    "guideline": "Use additional code for organ involvement"
+  }
+]

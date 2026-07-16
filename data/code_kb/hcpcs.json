@@ -1,0 +1,812 @@
+[
+  {
+    "code": "A0425",
+    "description": "Ground mileage, per statute mile",
+    "guideline": "Report actual loaded miles; use with base rate ambulance code"
+  },
+  {
+    "code": "A0428",
+    "description": "Ambulance service, basic life support, non-emergency transport",
+    "guideline": "Do not bill with A0429 same trip; document medical necessity"
+  },
+  {
+    "code": "A0429",
+    "description": "Ambulance service, basic life support, emergency transport",
+    "guideline": "Requires documentation of emergent condition at time of transport"
+  },
+  {
+    "code": "A0433",
+    "description": "Advanced life support, level 2",
+    "guideline": "Use for transport requiring 3+ ALS interventions"
+  },
+  {
+    "code": "A4206",
+    "description": "Syringe with needle, sterile 1cc",
+    "guideline": "Bill per unit dispensed; document quantity supplied"
+  },
+  {
+    "code": "A4253",
+    "description": "Blood glucose test strips, per 50",
+    "guideline": "Requires diagnosis of diabetes; frequency limits apply per payer policy"
+  },
+  {
+    "code": "A4257",
+    "description": "Replacement lens, lancet device",
+    "guideline": "Use only with covered lancet device on file"
+  },
+  {
+    "code": "A4335",
+    "description": "Incontinence supply, not otherwise specified",
+    "guideline": "Requires detailed description in claim narrative"
+  },
+  {
+    "code": "A4353",
+    "description": "Intermittent urinary catheter, with insertion supplies",
+    "guideline": "Document medical necessity for intermittent catheterization"
+  },
+  {
+    "code": "A4364",
+    "description": "Adhesive, liquid or equal, per oz",
+    "guideline": "Use with ostomy or wound care supply claims"
+  },
+  {
+    "code": "A4450",
+    "description": "Tape, non-waterproof, per 18 sq inches",
+    "guideline": "Bundled with primary wound dressing in most cases"
+  },
+  {
+    "code": "A4550",
+    "description": "Surgical trays",
+    "guideline": "Bundled into most procedure codes; separate billing rarely allowed"
+  },
+  {
+    "code": "A4595",
+    "description": "Electrical stimulator supplies, 2 lead, per month",
+    "guideline": "Requires prescription and documentation of ongoing use"
+  },
+  {
+    "code": "A4649",
+    "description": "Surgical supply, miscellaneous",
+    "guideline": "Requires invoice and detailed description for reimbursement"
+  },
+  {
+    "code": "A6021",
+    "description": "Collagen dressing, pad size 16 sq in or less",
+    "guideline": "Use for wound care management; frequency limits per payer policy"
+  },
+  {
+    "code": "A6196",
+    "description": "Alginate dressing, wound filler, per gram",
+    "guideline": "Document wound size and drainage amount"
+  },
+  {
+    "code": "A6402",
+    "description": "Gauze, non-impregnated, sterile, pad size 16-48 sq in",
+    "guideline": "Use with primary wound dressing code; not separately payable in all cases"
+  },
+  {
+    "code": "A6531",
+    "description": "Gradient compression stocking, below knee, 18-30 mmHg",
+    "guideline": "Requires documentation of venous insufficiency or lymphedema"
+  },
+  {
+    "code": "A7003",
+    "description": "Nebulizer, small volume, disposable",
+    "guideline": "Use with corresponding medication HCPCS code"
+  },
+  {
+    "code": "A7030",
+    "description": "Full face mask for CPAP/RAD, replacement",
+    "guideline": "Frequency limit typically once every 3 months per payer policy"
+  },
+  {
+    "code": "A9150",
+    "description": "Non-prescription drug",
+    "guideline": "Bill only when covered under specific payer benefit plan"
+  },
+  {
+    "code": "A9270",
+    "description": "Non-covered item or service",
+    "guideline": "Use for items not meeting Medicare coverage criteria"
+  },
+  {
+    "code": "A9500",
+    "description": "Technetium Tc-99m sestamibi, diagnostic",
+    "guideline": "Use with corresponding nuclear medicine procedure code"
+  },
+  {
+    "code": "A9576",
+    "description": "Gadoterate meglumine, per mL",
+    "guideline": "Use with MRI procedure requiring contrast administration"
+  },
+  {
+    "code": "B4034",
+    "description": "Enteral feeding supply kit, syringe fed, per day",
+    "guideline": "Requires documented enteral nutrition order"
+  },
+  {
+    "code": "B4149",
+    "description": "Enteral formula, semi-synthetic intact protein, 100 calories",
+    "guideline": "Requires physician order specifying caloric needs"
+  },
+  {
+    "code": "B4164",
+    "description": "Parenteral nutrition solution, amino acid, 3.5%",
+    "guideline": "Use with documented parenteral nutrition therapy plan"
+  },
+  {
+    "code": "B9002",
+    "description": "Enteral nutrition infusion pump, without alarm",
+    "guideline": "Requires documentation of medical necessity for pump vs gravity feed"
+  },
+  {
+    "code": "C1300",
+    "description": "Hyperbaric oxygen under pressure, full body chamber",
+    "guideline": "Use only in outpatient hospital setting per OPPS guidelines"
+  },
+  {
+    "code": "C1713",
+    "description": "Anchor/screw, bone fixation, implantable",
+    "guideline": "Bill only for outpatient hospital procedures under OPPS"
+  },
+  {
+    "code": "C1721",
+    "description": "Cardioverter-defibrillator, dual chamber",
+    "guideline": "Report device cost separately from implantation procedure"
+  },
+  {
+    "code": "C1734",
+    "description": "Orthopedic/device intraoperative use",
+    "guideline": "Use only when device is not separately reimbursed under CPT code"
+  },
+  {
+    "code": "C8909",
+    "description": "MRI with contrast, breast, unilateral",
+    "guideline": "Use for hospital outpatient billing under OPPS methodology"
+  },
+  {
+    "code": "E0110",
+    "description": "Crutches, forearm, pair",
+    "guideline": "Requires physician order and documentation of mobility limitation"
+  },
+  {
+    "code": "E0130",
+    "description": "Walker, rigid, adjustable or fixed height",
+    "guideline": "Use for patients with documented ambulatory dysfunction"
+  },
+  {
+    "code": "E0143",
+    "description": "Walker, folding, wheeled",
+    "guideline": "Requires face-to-face encounter documentation prior to dispensing"
+  },
+  {
+    "code": "E0163",
+    "description": "Commode chair, fixed arm",
+    "guideline": "Requires documentation of inability to use bathroom facilities"
+  },
+  {
+    "code": "E0181",
+    "description": "Powered pressure pad, alternating, mattress overlay",
+    "guideline": "Requires documentation of pressure ulcer risk or existing ulcer"
+  },
+  {
+    "code": "E0250",
+    "description": "Hospital bed, fixed height, with mattress",
+    "guideline": "Requires documented medical necessity for hospital bed at home"
+  },
+  {
+    "code": "E0424",
+    "description": "Stationary oxygen concentrator",
+    "guideline": "Requires qualifying blood gas or oximetry results"
+  },
+  {
+    "code": "E0431",
+    "description": "Portable gaseous oxygen system, rental",
+    "guideline": "Use in conjunction with stationary system for mobility needs"
+  },
+  {
+    "code": "E0439",
+    "description": "Stationary liquid oxygen system",
+    "guideline": "Requires certificate of medical necessity (CMN) on file"
+  },
+  {
+    "code": "E0470",
+    "description": "Respiratory assist device, bi-level pressure, without backup rate",
+    "guideline": "Requires sleep study documentation supporting diagnosis"
+  },
+  {
+    "code": "E0601",
+    "description": "Continuous positive airway pressure (CPAP) device",
+    "guideline": "Requires polysomnography results confirming sleep apnea diagnosis"
+  },
+  {
+    "code": "E0607",
+    "description": "Home blood glucose monitor",
+    "guideline": "Requires diagnosis of diabetes and documented need for home monitoring"
+  },
+  {
+    "code": "E0621",
+    "description": "Sling or seat, patient lift, canvas or nylon",
+    "guideline": "Use only with corresponding patient lift device on file"
+  },
+  {
+    "code": "E0630",
+    "description": "Patient lift, hydraulic, with seat or sling",
+    "guideline": "Requires documentation of transfer limitation and caregiver assistance needs"
+  },
+  {
+    "code": "E0655",
+    "description": "Segmental pneumatic compression device, half leg",
+    "guideline": "Requires documentation of lymphedema or venous insufficiency"
+  },
+  {
+    "code": "E0670",
+    "description": "Segmental pneumatic appliance, half leg",
+    "guideline": "Use with corresponding compression pump device code"
+  },
+  {
+    "code": "E0710",
+    "description": "Restraints, any type",
+    "guideline": "Requires documented clinical justification for use"
+  },
+  {
+    "code": "E0776",
+    "description": "IV pole",
+    "guideline": "Bundled with home infusion therapy in most cases"
+  },
+  {
+    "code": "E0784",
+    "description": "External ambulatory infusion pump, insulin",
+    "guideline": "Requires documentation of insulin-dependent diabetes and pump necessity"
+  },
+  {
+    "code": "E0935",
+    "description": "Continuous passive motion (CPM) exercise device",
+    "guideline": "Typically limited to 21 days rental post-surgery"
+  },
+  {
+    "code": "E1038",
+    "description": "Transport wheelchair, pediatric",
+    "guideline": "Requires documented mobility limitation specific to pediatric patient"
+  },
+  {
+    "code": "E1130",
+    "description": "Wheelchair, standard, fixed full length arms",
+    "guideline": "Requires face-to-face mobility evaluation documentation"
+  },
+  {
+    "code": "E1161",
+    "description": "Manual adult size wheelchair, tilt-in-space",
+    "guideline": "Requires documentation of postural support need"
+  },
+  {
+    "code": "E1230",
+    "description": "Power operated vehicle (scooter), 3 wheel",
+    "guideline": "Requires comprehensive mobility evaluation and home assessment"
+  },
+  {
+    "code": "E2201",
+    "description": "Manual wheelchair accessory, seat depth extension",
+    "guideline": "Use only with corresponding wheelchair base code"
+  },
+  {
+    "code": "E2601",
+    "description": "General use wheelchair seat cushion, width less than 22 inches",
+    "guideline": "Requires documentation of skin integrity risk"
+  },
+  {
+    "code": "G0008",
+    "description": "Administration of influenza virus vaccine",
+    "guideline": "Bill with corresponding vaccine product code (90xxx series)"
+  },
+  {
+    "code": "G0009",
+    "description": "Administration of pneumococcal vaccine",
+    "guideline": "Use for Medicare beneficiaries; commercial payers may use CPT 90471"
+  },
+  {
+    "code": "G0101",
+    "description": "Cervical or vaginal cancer screening; pelvic and breast exam",
+    "guideline": "Frequency limits apply based on risk category"
+  },
+  {
+    "code": "G0102",
+    "description": "Prostate cancer screening; digital rectal examination",
+    "guideline": "Use for Medicare annual screening benefit"
+  },
+  {
+    "code": "G0103",
+    "description": "Prostate cancer screening; PSA test",
+    "guideline": "Annual frequency limit for asymptomatic men over 50"
+  },
+  {
+    "code": "G0107",
+    "description": "Colorectal cancer screening; fecal occult blood test",
+    "guideline": "Annual frequency limit; not covered if diagnostic workup indicated"
+  },
+  {
+    "code": "G0121",
+    "description": "Colorectal cancer screening; colonoscopy, average risk",
+    "guideline": "Frequency limit once every 10 years for average risk patients"
+  },
+  {
+    "code": "G0202",
+    "description": "Screening mammography, digital, bilateral",
+    "guideline": "Annual frequency limit for women age 40 and older"
+  },
+  {
+    "code": "G0248",
+    "description": "Demonstration of home INR monitoring",
+    "guideline": "Requires physician order for anticoagulation self-testing"
+  },
+  {
+    "code": "G0296",
+    "description": "Counseling visit for lung cancer screening eligibility",
+    "guideline": "Requires shared decision making documentation"
+  },
+  {
+    "code": "G0299",
+    "description": "Direct skilled nursing services, RN, per 15 minutes",
+    "guideline": "Use for home health services under skilled nursing plan"
+  },
+  {
+    "code": "G0316",
+    "description": "Prolonged hospital inpatient service, each additional 15 minutes",
+    "guideline": "Use as add-on code for extended E/M services beyond typical time"
+  },
+  {
+    "code": "G0402",
+    "description": "Initial preventive physical examination (welcome to Medicare visit)",
+    "guideline": "One-time benefit within 12 months of Medicare enrollment"
+  },
+  {
+    "code": "G0438",
+    "description": "Annual wellness visit, initial",
+    "guideline": "Requires personalized prevention plan; not a physical exam"
+  },
+  {
+    "code": "G0439",
+    "description": "Annual wellness visit, subsequent",
+    "guideline": "Annual frequency limit; separate from routine physical exam"
+  },
+  {
+    "code": "G0463",
+    "description": "Hospital outpatient clinic visit for assessment and management",
+    "guideline": "Use for hospital-based outpatient E/M services under OPPS"
+  },
+  {
+    "code": "G0471",
+    "description": "Collection of venous blood by venipuncture, nursing facility patient",
+    "guideline": "Use only for patients in skilled nursing facility setting"
+  },
+  {
+    "code": "G0480",
+    "description": "Drug test, definitive, 1-7 drug classes",
+    "guideline": "Documentation must support medical necessity for definitive testing"
+  },
+  {
+    "code": "G2211",
+    "description": "Visit complexity inherent to E/M associated with ongoing care",
+    "guideline": "Add-on code for office visits reflecting complexity of longitudinal care"
+  },
+  {
+    "code": "G8427",
+    "description": "Eligible clinician attests to documenting current medications list",
+    "guideline": "Quality reporting code; no separate reimbursement"
+  },
+  {
+    "code": "G9685",
+    "description": "Bundled payment for care improvement, episode of care",
+    "guideline": "Use within specific bundled payment model participation"
+  },
+  {
+    "code": "H0001",
+    "description": "Alcohol and/or drug assessment",
+    "guideline": "Requires documentation of substance use screening tool used"
+  },
+  {
+    "code": "H0004",
+    "description": "Behavioral health counseling and therapy, per 15 minutes",
+    "guideline": "Use for state Medicaid behavioral health billing"
+  },
+  {
+    "code": "H0020",
+    "description": "Alcohol and/or drug services; methadone administration",
+    "guideline": "Requires licensed opioid treatment program documentation"
+  },
+  {
+    "code": "H0038",
+    "description": "Self-help/peer services, per 15 minutes",
+    "guideline": "Use for peer support specialist services under state Medicaid"
+  },
+  {
+    "code": "H2011",
+    "description": "Crisis intervention service, per 15 minutes",
+    "guideline": "Requires documentation of crisis nature and intervention provided"
+  },
+  {
+    "code": "J0135",
+    "description": "Injection, adalimumab, 20 mg",
+    "guideline": "Requires prior authorization for most commercial payers"
+  },
+  {
+    "code": "J0171",
+    "description": "Injection, adrenalin, epinephrine, 0.1 mg",
+    "guideline": "Bill actual dosage administered; document indication"
+  },
+  {
+    "code": "J0585",
+    "description": "Injection, onabotulinumtoxinA, 1 unit",
+    "guideline": "Requires documentation of FDA-approved indication or medical necessity"
+  },
+  {
+    "code": "J0696",
+    "description": "Injection, ceftriaxone sodium, per 250 mg",
+    "guideline": "Bill units based on actual dose administered"
+  },
+  {
+    "code": "J1100",
+    "description": "Injection, dexamethasone sodium phosphate, 1 mg",
+    "guideline": "Document indication and route of administration"
+  },
+  {
+    "code": "J1642",
+    "description": "Injection, heparin sodium, per 1000 units",
+    "guideline": "Use with corresponding administration CPT code"
+  },
+  {
+    "code": "J1745",
+    "description": "Injection, infliximab, 10 mg",
+    "guideline": "Requires documentation of diagnosis supporting biologic therapy"
+  },
+  {
+    "code": "J2001",
+    "description": "Injection, lidocaine HCl, 10 mg",
+    "guideline": "Bundled with most procedures using local anesthesia"
+  },
+  {
+    "code": "J2405,",
+    "description": "Injection, ondansetron HCl, per 1 mg",
+    "guideline": "Document indication for antiemetic use"
+  },
+  {
+    "code": "J2550",
+    "description": "Injection, promethazine HCl, up to 50 mg",
+    "guideline": "Bill actual dose administered per encounter"
+  },
+  {
+    "code": "J2795",
+    "description": "Injection, ropivacaine HCl, 1 mg",
+    "guideline": "Use with regional anesthesia or nerve block procedure"
+  },
+  {
+    "code": "J3010",
+    "description": "Injection, fentanyl citrate, 0.1 mg",
+    "guideline": "Requires documentation for pain management or anesthesia use"
+  },
+  {
+    "code": "J3301",
+    "description": "Injection, triamcinolone acetonide, per 10 mg",
+    "guideline": "Document site and indication for corticosteroid injection"
+  },
+  {
+    "code": "J3420",
+    "description": "Injection, vitamin B-12 cyanocobalamin, up to 1000 mcg",
+    "guideline": "Requires diagnosis supporting B12 deficiency or malabsorption"
+  },
+  {
+    "code": "J7030",
+    "description": "Infusion, normal saline solution, 1000 cc",
+    "guideline": "Bill actual volume administered per encounter"
+  },
+  {
+    "code": "J7050",
+    "description": "Infusion, normal saline solution, 250 cc",
+    "guideline": "Use with corresponding IV infusion administration code"
+  },
+  {
+    "code": "J7325",
+    "description": "Hyaluronan or derivative, Synvisc, for intra-articular injection, per dose",
+    "guideline": "Requires documentation of osteoarthritis diagnosis and prior conservative treatment"
+  },
+  {
+    "code": "J7999",
+    "description": "Compounded drug, not otherwise classified",
+    "guideline": "Requires detailed invoice and NDC documentation"
+  },
+  {
+    "code": "J9035",
+    "description": "Injection, bevacizumab, 10 mg",
+    "guideline": "Requires oncology diagnosis and treatment plan documentation"
+  },
+  {
+    "code": "J9190",
+    "description": "Injection, fluorouracil, 500 mg",
+    "guideline": "Bill units based on total dose administered per chemotherapy protocol"
+  },
+  {
+    "code": "J9271",
+    "description": "Injection, pembrolizumab, 1 mg",
+    "guideline": "Requires prior authorization and oncology diagnosis documentation"
+  },
+  {
+    "code": "K0001",
+    "description": "Standard wheelchair",
+    "guideline": "Requires face-to-face mobility evaluation prior to dispensing"
+  },
+  {
+    "code": "K0553",
+    "description": "Supply allowance for therapeutic continuous glucose monitor",
+    "guideline": "Requires documentation of diabetes diagnosis and monitoring necessity"
+  },
+  {
+    "code": "K0733",
+    "description": "Power wheelchair accessory, battery charger, replacement",
+    "guideline": "Use only with existing power wheelchair on file"
+  },
+  {
+    "code": "K0800",
+    "description": "Power operated vehicle, group 1 standard",
+    "guideline": "Requires comprehensive mobility assessment and prior authorization"
+  },
+  {
+    "code": "K0856",
+    "description": "Power wheelchair, group 3, single power option",
+    "guideline": "Requires specialty evaluation by qualified provider"
+  },
+  {
+    "code": "L0450",
+    "description": "Thoracic-lumbar-sacral orthosis (TLSO), flexible",
+    "guideline": "Requires documentation of spinal instability or post-surgical need"
+  },
+  {
+    "code": "L0648",
+    "description": "Lumbar-sacral orthosis, sagittal control",
+    "guideline": "Requires clinical justification for spinal bracing"
+  },
+  {
+    "code": "L1832",
+    "description": "Knee orthosis, adjustable knee joints, prefabricated",
+    "guideline": "Requires documentation of knee instability or ligamentous injury"
+  },
+  {
+    "code": "L1902",
+    "description": "Ankle orthosis, ankle gauntlet, prefabricated",
+    "guideline": "Requires diagnosis supporting ankle instability"
+  },
+  {
+    "code": "L3806",
+    "description": "Wrist-hand-finger orthosis, dynamic flexor hinge",
+    "guideline": "Requires documentation of functional deficit and therapy goals"
+  },
+  {
+    "code": "L5301",
+    "description": "Below knee prosthesis, molded socket, shin, SACH foot",
+    "guideline": "Requires documentation of amputation level and functional status (K-level)"
+  },
+  {
+    "code": "L5637",
+    "description": "Addition to lower extremity prosthesis, total contact",
+    "guideline": "Use only with corresponding base prosthetic code"
+  },
+  {
+    "code": "L5981,",
+    "description": "All lower extremity prostheses, flex foot system",
+    "guideline": "Requires documentation of functional level supporting dynamic response foot"
+  },
+  {
+    "code": "L6050,",
+    "description": "Below elbow prosthesis, molded socket",
+    "guideline": "Requires documentation of amputation level and rehabilitation goals"
+  },
+  {
+    "code": "L8000,",
+    "description": "Breast prosthesis, mastectomy bra",
+    "guideline": "Requires documentation of mastectomy history"
+  },
+  {
+    "code": "L8020,",
+    "description": "Breast prosthesis, silicone or equal",
+    "guideline": "Frequency limit typically once every 2 years"
+  },
+  {
+    "code": "L8600,",
+    "description": "Implantable breast prosthesis, silicone or equal",
+    "guideline": "Use for reconstructive surgery following mastectomy"
+  },
+  {
+    "code": "M0075,",
+    "description": "Cellular therapy",
+    "guideline": "Rarely covered; requires extensive documentation of medical necessity"
+  },
+  {
+    "code": "M0100,",
+    "description": "Intragastric hypothermia using gastric freezing",
+    "guideline": "Obsolete procedure; generally non-covered by payers"
+  },
+  {
+    "code": "P2028,",
+    "description": "Cephalin flocculation, blood",
+    "guideline": "Legacy code; rarely used in current laboratory practice"
+  },
+  {
+    "code": "P3000,",
+    "description": "Screening Papanicolaou smear, physician supervision",
+    "guideline": "Use for Medicare cervical cancer screening benefit"
+  },
+  {
+    "code": "P9010,",
+    "description": "Blood, whole, for transfusion, per unit",
+    "guideline": "Requires blood bank documentation and crossmatch results"
+  },
+  {
+    "code": "P9603,",
+    "description": "Travel allowance, one way, laboratory specimen collection",
+    "guideline": "Use for home-bound patient specimen collection"
+  },
+  {
+    "code": "Q0091,",
+    "description": "Screening Papanicolaou smear, obtaining and preparation",
+    "guideline": "Use for technical component of Pap smear collection"
+  },
+  {
+    "code": "Q2009,",
+    "description": "Injection, fosphenytoin sodium, 50 mg",
+    "guideline": "Bill units based on total phenytoin sodium equivalent administered"
+  },
+  {
+    "code": "Q2038,",
+    "description": "Influenza virus vaccine, split virus",
+    "guideline": "Use age-specific and formulation-specific vaccine codes"
+  },
+  {
+    "code": "Q3014,",
+    "description": "Telehealth originating site facility fee",
+    "guideline": "Use for originating site billing during telehealth encounter"
+  },
+  {
+    "code": "Q4001,",
+    "description": "Casting supplies, plaster, pediatric",
+    "guideline": "Bundled with casting application CPT code in most cases"
+  },
+  {
+    "code": "Q4074,",
+    "description": "Iloprost, inhalation solution, up to 20 mcg",
+    "guideline": "Requires documentation of pulmonary arterial hypertension diagnosis"
+  },
+  {
+    "code": "Q5107,",
+    "description": "Injection, bevacizumab-awwb, biosimilar, 10 mg",
+    "guideline": "Use biosimilar-specific code; do not substitute reference product code"
+  },
+  {
+    "code": "Q9950,",
+    "description": "Injection, sulfur hexafluoride lipid microspheres, per mL",
+    "guideline": "Use for echocardiography contrast enhancement"
+  },
+  {
+    "code": "Q9967,",
+    "description": "Low osmolar contrast material, 100-199 mg/mL iodine",
+    "guideline": "Bill based on total mL administered during imaging procedure"
+  },
+  {
+    "code": "R0070,",
+    "description": "Transportation of portable X-ray equipment, one patient",
+    "guideline": "Use for home or nursing facility portable radiology services"
+  },
+  {
+    "code": "R0075,",
+    "description": "Transportation of portable X-ray equipment, more than one patient",
+    "guideline": "Bill per patient visit within same trip"
+  },
+  {
+    "code": "S0612,",
+    "description": "Annual gynecological examination, established patient",
+    "guideline": "Use for commercial payer well-woman visit billing"
+  },
+  {
+    "code": "S2900,",
+    "description": "Surgical technique requiring use of robotic surgical system",
+    "guideline": "Add-on code for robotic-assisted surgery; not separately reimbursed by Medicare"
+  },
+  {
+    "code": "S3620,",
+    "description": "Newborn metabolic screening panel",
+    "guideline": "Use for state-mandated newborn screening program billing"
+  },
+  {
+    "code": "S9083,",
+    "description": "Global fee for urgent care centers",
+    "guideline": "Use for bundled urgent care encounter billing under commercial payers"
+  },
+  {
+    "code": "S9430,",
+    "description": "Pharmacy compounding and dispensing services",
+    "guideline": "Use for specialty pharmacy billing not covered by standard drug codes"
+  },
+  {
+    "code": "T1000,",
+    "description": "Private duty/independent nursing service, per diem",
+    "guideline": "Use for state Medicaid home health nursing billing"
+  },
+  {
+    "code": "T1015,",
+    "description": "Clinic visit/encounter, all-inclusive",
+    "guideline": "Use for federally qualified health center (FQHC) encounter billing"
+  },
+  {
+    "code": "T1019,",
+    "description": "Personal care services, per 15 minutes",
+    "guideline": "Requires state Medicaid waiver program documentation"
+  },
+  {
+    "code": "T2003,",
+    "description": "Non-emergency transportation, encounter/trip",
+    "guideline": "Use for Medicaid non-emergency medical transportation benefit"
+  },
+  {
+    "code": "T4521,",
+    "description": "Adult sized disposable incontinence product, brief/diaper, small",
+    "guideline": "Requires documentation of incontinence diagnosis for Medicaid coverage"
+  },
+  {
+    "code": "V2020,",
+    "description": "Frames, purchases",
+    "guideline": "Frequency limits apply per payer vision benefit policy"
+  },
+  {
+    "code": "V2100,",
+    "description": "Spherical lens, single vision, plano to plus or minus 4.00",
+    "guideline": "Use for corrective lens billing under vision benefit"
+  },
+  {
+    "code": "V2500,",
+    "description": "Contact lens, PMMA, spherical, per lens",
+    "guideline": "Requires documentation of medical necessity vs cosmetic preference"
+  },
+  {
+    "code": "V2623,",
+    "description": "Prosthetic eye, plastic, custom",
+    "guideline": "Requires documentation of enucleation or evisceration history"
+  },
+  {
+    "code": "V2700,",
+    "description": "Balance lens, per lens",
+    "guideline": "Use when only one eye requires corrective lens"
+  },
+  {
+    "code": "V5008,",
+    "description": "Hearing screening",
+    "guideline": "Use for basic hearing assessment prior to full audiometric evaluation"
+  },
+  {
+    "code": "V5030,",
+    "description": "Hearing aid, body worn, air conduction",
+    "guideline": "Requires audiological evaluation supporting hearing loss diagnosis"
+  },
+  {
+    "code": "V5060,",
+    "description": "Hearing aid, in the ear",
+    "guideline": "Frequency limits apply per payer policy, typically every 3-5 years"
+  },
+  {
+    "code": "V5140,",
+    "description": "Binaural, body",
+    "guideline": "Use for bilateral hearing aid fitting documentation"
+  },
+  {
+    "code": "V5230,",
+    "description": "Hearing aid, glasses, binaural",
+    "guideline": "Requires documentation of combined vision and hearing correction need"
+  },
+  {
+    "code": "V5266,",
+    "description": "Battery for use in hearing device",
+    "guideline": "Bill quantity dispensed per encounter; frequency limits may apply"
+  },
+  {
+    "code": "V5299,",
+    "description": "Hearing service, miscellaneous",
+    "guideline": "Requires detailed description and invoice for reimbursement"
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "code": "99201",
+    "description": "Office/outpatient visit, new patient, straightforward",
+    "guideline": "Deleted code as of 2021; use 99202-99205 for new patient visits"
+  },
+  {
+    "code": "99202",
+    "description": "Office/outpatient visit, new patient, low complexity, 15-29 minutes",
+    "guideline": "Code selection based on time or medical decision making (MDM)"
+  },
+  {
+    "code": "99203",
+    "description": "Office/outpatient visit, new patient, moderate complexity, 30-44 minutes",
+    "guideline": "Documentation must support time spent or MDM level"
+  },
+  {
+    "code": "99204",
+    "description": "Office/outpatient visit, new patient, moderate-high complexity, 45-59 minutes",
+    "guideline": "Use additional code for prolonged services if applicable (99417)"
+  },
+  {
+    "code": "99205",
+    "description": "Office/outpatient visit, new patient, high complexity, 60-74 minutes",
+    "guideline": "Requires comprehensive history and exam or high MDM"
+  },
+  {
+    "code": "99211",
+    "description": "Office/outpatient visit, established patient, minimal presenting problem",
+    "guideline": "May not require physician presence; often used for nurse visits"
+  },
+  {
+    "code": "99212",
+    "description": "Office/outpatient visit, established patient, straightforward, 10-19 minutes",
+    "guideline": "Code selection based on time or medical decision making (MDM)"
+  },
+  {
+    "code": "99213",
+    "description": "Office/outpatient visit, established patient, low complexity, 20-29 minutes",
+    "guideline": "Most commonly billed E/M code; ensure documentation supports level"
+  },
+  {
+    "code": "99214",
+    "description": "Office/outpatient visit, established patient, moderate complexity, 30-39 minutes",
+    "guideline": "Use additional code for prolonged services if exceeding time threshold"
+  },
+  {
+    "code": "99215",
+    "description": "Office/outpatient visit, established patient, high complexity, 40-54 minutes",
+    "guideline": "Requires high MDM or extensive time; document medical necessity"
+  },
+  {
+    "code": "99221",
+    "description": "Initial hospital care, per day, low complexity",
+    "guideline": "Use for first inpatient encounter; do not combine with observation codes same day"
+  },
+  {
+    "code": "99222",
+    "description": "Initial hospital care, per day, moderate complexity",
+    "guideline": "Documentation must reflect comprehensive history and exam"
+  },
+  {
+    "code": "99223",
+    "description": "Initial hospital care, per day, high complexity",
+    "guideline": "Reserved for complex admissions requiring extensive workup"
+  },
+  {
+    "code": "99231",
+    "description": "Subsequent hospital care, per day, low complexity",
+    "guideline": "Use for stable or improving patients during hospital stay"
+  },
+  {
+    "code": "99232",
+    "description": "Subsequent hospital care, per day, moderate complexity",
+    "guideline": "Requires evidence of changing clinical status"
+  },
+  {
+    "code": "99233",
+    "description": "Subsequent hospital care, per day, high complexity",
+    "guideline": "Use for unstable patients or significant new problems"
+  },
+  {
+    "code": "99238",
+    "description": "Hospital discharge day management, 30 minutes or less",
+    "guideline": "Document total time spent for discharge planning"
+  },
+  {
+    "code": "99239",
+    "description": "Hospital discharge day management, more than 30 minutes",
+    "guideline": "Use additional code for care plan oversight if applicable"
+  },
+  {
+    "code": "99281",
+    "description": "Emergency department visit, self-limited or minor problem",
+    "guideline": "Use for minimal complexity ED encounters"
+  },
+  {
+    "code": "99282",
+    "description": "Emergency department visit, low to moderate severity",
+    "guideline": "Do not use with critical care codes same encounter"
+  },
+  {
+    "code": "99283",
+    "description": "Emergency department visit, moderate severity",
+    "guideline": "Documentation must justify expanded workup"
+  },
+  {
+    "code": "99284",
+    "description": "Emergency department visit, high severity, urgent evaluation",
+    "guideline": "Use for patients requiring immediate attention but stable"
+  },
+  {
+    "code": "99285",
+    "description": "Emergency department visit, high severity, threat to life or function",
+    "guideline": "Highest level ED code; document severity and interventions"
+  },
+  {
+    "code": "99291",
+    "description": "Critical care, first 30-74 minutes",
+    "guideline": "Time-based code; document total critical care time provided"
+  },
+  {
+    "code": "99292",
+    "description": "Critical care, each additional 30 minutes",
+    "guideline": "Use in conjunction with 99291; report add-on units as needed"
+  },
+  {
+    "code": "99304",
+    "description": "Initial nursing facility care, low complexity",
+    "guideline": "Use for new admission to skilled nursing facility"
+  },
+  {
+    "code": "99305",
+    "description": "Initial nursing facility care, moderate complexity",
+    "guideline": "Documentation should reflect comprehensive assessment"
+  },
+  {
+    "code": "99306",
+    "description": "Initial nursing facility care, high complexity",
+    "guideline": "Reserved for complex or unstable nursing facility admissions"
+  },
+  {
+    "code": "99307",
+    "description": "Subsequent nursing facility care, straightforward",
+    "guideline": "Use for stable, minor changes in nursing facility patients"
+  },
+  {
+    "code": "99308",
+    "description": "Subsequent nursing facility care, low complexity",
+    "guideline": "Document any changes in clinical status since last visit"
+  },
+  {
+    "code": "99309",
+    "description": "Subsequent nursing facility care, moderate complexity",
+    "guideline": "Use for patients with new or worsening problems"
+  },
+  {
+    "code": "99310",
+    "description": "Subsequent nursing facility care, high complexity",
+    "guideline": "Requires significant change in condition or high MDM"
+  },
+  {
+    "code": "99341",
+    "description": "Home visit, new patient, low complexity",
+    "guideline": "Use for new patient encounters in home setting"
+  },
+  {
+    "code": "99342",
+    "description": "Home visit, new patient, moderate complexity",
+    "guideline": "Document travel time separately if applicable"
+  },
+  {
+    "code": "99347",
+    "description": "Home visit, established patient, straightforward",
+    "guideline": "Use for routine follow-up in home setting"
+  },
+  {
+    "code": "99348",
+    "description": "Home visit, established patient, low complexity",
+    "guideline": "Document medical necessity for home visit vs office visit"
+  },
+  {
+    "code": "99381",
+    "description": "Initial preventive medicine visit, infant (younger than 1 year)",
+    "guideline": "Use age-specific codes for preventive visits; do not use with sick visit unless significant separate service"
+  },
+  {
+    "code": "99385",
+    "description": "Initial preventive medicine visit, 18-39 years",
+    "guideline": "Includes comprehensive history and exam; counsel on risk factors"
+  },
+  {
+    "code": "99395",
+    "description": "Periodic preventive medicine visit, 18-39 years",
+    "guideline": "Use for established patient annual wellness exam"
+  },
+  {
+    "code": "99406",
+    "description": "Smoking cessation counseling, 3-10 minutes",
+    "guideline": "Use additional code 99407 for counseling exceeding 10 minutes"
+  },
+  {
+    "code": "99407",
+    "description": "Smoking cessation counseling, greater than 10 minutes",
+    "guideline": "Document counseling content and patient response"
+  },
+  {
+    "code": "99441",
+    "description": "Telephone E/M service, 5-10 minutes",
+    "guideline": "Do not use if service originates from related E/M visit within 7 days"
+  },
+  {
+    "code": "99442",
+    "description": "Telephone E/M service, 11-20 minutes",
+    "guideline": "Time-based code; document total call duration"
+  },
+  {
+    "code": "99443",
+    "description": "Telephone E/M service, 21-30 minutes",
+    "guideline": "Use for extended telephone consultations"
+  },
+  {
+    "code": "99446",
+    "description": "Interprofessional telephone/internet consultation, 5-10 minutes",
+    "guideline": "Requesting physician must document reason for consultation"
+  },
+  {
+    "code": "99451",
+    "description": "Interprofessional consultation, written report only",
+    "guideline": "Use when consultant provides written opinion without patient contact"
+  },
+  {
+    "code": "99460",
+    "description": "Initial newborn care, normal newborn",
+    "guideline": "Use for routine newborn exam in hospital or birthing center"
+  },
+  {
+    "code": "99461",
+    "description": "Initial newborn care, other than hospital/birthing center",
+    "guideline": "Use for home births or alternative delivery settings"
+  },
+  {
+    "code": "99463",
+    "description": "Newborn care, same day discharge",
+    "guideline": "Use only when admission and discharge occur same calendar date"
+  },
+  {
+    "code": "99468",
+    "description": "Initial inpatient neonatal critical care, per day",
+    "guideline": "Use for critically ill neonates requiring intensive care"
+  },
+  {
+    "code": "99471",
+    "description": "Initial pediatric critical care, per day",
+    "guideline": "Use for critically ill pediatric patients 29 days to 24 months"
+  },
+  {
+    "code": "10021",
+    "description": "Fine needle aspiration biopsy, without imaging guidance",
+    "guideline": "Use additional code for imaging guidance if performed (76942, 77002)"
+  },
+  {
+    "code": "10060",
+    "description": "Incision and drainage of abscess, simple or single",
+    "guideline": "Use 10061 for complicated or multiple abscess drainage"
+  },
+  {
+    "code": "10120",
+    "description": "Incision and removal of foreign body, subcutaneous tissue, simple",
+    "guideline": "Use 10121 for complicated foreign body removal"
+  },
+  {
+    "code": "11042",
+    "description": "Debridement, subcutaneous tissue, first 20 sq cm or less",
+    "guideline": "Use add-on code 11045 for each additional 20 sq cm"
+  },
+  {
+    "code": "11055",
+    "description": "Paring or cutting of benign hyperkeratotic lesion, single",
+    "guideline": "Use 11056 or 11057 for multiple lesions"
+  },
+  {
+    "code": "11100",
+    "description": "Biopsy of skin, single lesion",
+    "guideline": "Use add-on code 11101 for each additional lesion"
+  },
+  {
+    "code": "11400",
+    "description": "Excision, benign lesion, trunk/arms/legs, 0.5 cm or less",
+    "guideline": "Code selection based on lesion size and anatomical location"
+  },
+  {
+    "code": "11600",
+    "description": "Excision, malignant lesion, trunk/arms/legs, 0.5 cm or less",
+    "guideline": "Use additional code for margins if re-excision performed"
+  },
+  {
+    "code": "12001",
+    "description": "Simple repair of superficial wounds, 2.5 cm or less",
+    "guideline": "Code based on wound length, depth, and anatomical location"
+  },
+  {
+    "code": "12031",
+    "description": "Layer closure of wounds, 2.5 cm or less",
+    "guideline": "Use for intermediate repair requiring layered closure"
+  },
+  {
+    "code": "13100",
+    "description": "Complex repair, trunk, 1.1 to 2.5 cm",
+    "guideline": "Complex repairs require extensive undermining or debridement"
+  },
+  {
+    "code": "15002",
+    "description": "Surgical preparation of wound bed, first 100 sq cm",
+    "guideline": "Use add-on code 15003 for additional area"
+  },
+  {
+    "code": "15100",
+    "description": "Split-thickness skin graft, first 100 sq cm",
+    "guideline": "Code also donor site repair if separately performed"
+  },
+  {
+    "code": "15760",
+    "description": "Graft, composite skin, trunk, arms, legs",
+    "guideline": "Document graft size and recipient site preparation"
+  },
+  {
+    "code": "17000",
+    "description": "Destruction of benign/premalignant lesion, first lesion",
+    "guideline": "Use add-on codes 17003-17004 for additional lesions"
+  },
+  {
+    "code": "19081",
+    "description": "Biopsy, breast, percutaneous, first lesion, with imaging guidance",
+    "guideline": "Use additional code for imaging modality guidance"
+  },
+  {
+    "code": "19120",
+    "description": "Excision of breast lesion, open, without imaging guidance",
+    "guideline": "Code also margins evaluation if performed"
+  },
+  {
+    "code": "19301",
+    "description": "Mastectomy, partial",
+    "guideline": "Use additional code for axillary lymph node biopsy if performed"
+  },
+  {
+    "code": "19303",
+    "description": "Mastectomy, simple, complete",
+    "guideline": "Do not use with 19301 for same breast same session"
+  },
+  {
+    "code": "19307",
+    "description": "Mastectomy, modified radical",
+    "guideline": "Includes axillary lymphadenectomy; code separately if extended"
+  },
+  {
+    "code": "20600",
+    "description": "Arthrocentesis, aspiration/injection, small joint",
+    "guideline": "Use additional code for imaging guidance if performed"
+  },
+  {
+    "code": "20605",
+    "description": "Arthrocentesis, aspiration/injection, intermediate joint",
+    "guideline": "Document joint size and clinical indication"
+  },
+  {
+    "code": "20610",
+    "description": "Arthrocentesis, aspiration/injection, major joint",
+    "guideline": "Use for knee, shoulder, hip joint procedures"
+  },
+  {
+    "code": "20680",
+    "description": "Removal of implant, deep",
+    "guideline": "Code also any concurrent debridement separately"
+  },
+  {
+    "code": "22551",
+    "description": "Cervical spine fusion, anterior interbody, single interspace",
+    "guideline": "Use additional code for instrumentation (22845-22851)"
+  },
+  {
+    "code": "22612",
+    "description": "Lumbar spine fusion, posterior/posterolateral, single level",
+    "guideline": "Use add-on code 22614 for each additional level"
+  },
+  {
+    "code": "23410",
+    "description": "Repair of rotator cuff, acute",
+    "guideline": "Use 23412 for chronic rotator cuff repair"
+  },
+  {
+    "code": "23430",
+    "description": "Tenodesis of long tendon of biceps",
+    "guideline": "Code also any associated rotator cuff repair separately"
+  },
+  {
+    "code": "27130",
+    "description": "Total hip arthroplasty",
+    "guideline": "Use additional code for bone graft if performed"
+  },
+  {
+    "code": "27447",
+    "description": "Total knee arthroplasty",
+    "guideline": "Document implant type and any complications"
+  },
+  {
+    "code": "27486",
+    "description": "Revision of total knee arthroplasty, one component",
+    "guideline": "Use 27487 for revision of both components"
+  },
+  {
+    "code": "29827",
+    "description": "Arthroscopy, shoulder, rotator cuff repair",
+    "guideline": "Do not use with open repair code for same shoulder"
+  },
+  {
+    "code": "29881",
+    "description": "Arthroscopy, knee, with meniscectomy",
+    "guideline": "Code also chondroplasty if performed separately (29877)"
+  },
+  {
+    "code": "29888",
+    "description": "Arthroscopically aided ACL reconstruction",
+    "guideline": "Use additional code for graft harvest if autograft used"
+  },
+  {
+    "code": "31500",
+    "description": "Intubation, endotracheal, emergency procedure",
+    "guideline": "Use only for emergent, non-elective intubation"
+  },
+  {
+    "code": "31622",
+    "description": "Bronchoscopy, diagnostic",
+    "guideline": "Use additional code for biopsy or other procedures performed"
+  },
+  {
+    "code": "31625",
+    "description": "Bronchoscopy with biopsy",
+    "guideline": "Do not report separately with 31622 same session"
+  },
+  {
+    "code": "32551",
+    "description": "Tube thoracostomy",
+    "guideline": "Use additional code for imaging guidance if performed"
+  },
+  {
+    "code": "33206",
+    "description": "Insertion of pacemaker, atrial",
+    "guideline": "Use additional code for pulse generator if separately reported"
+  },
+  {
+    "code": "33249",
+    "description": "Insertion of implantable defibrillator system",
+    "guideline": "Includes lead placement; code separately if revision required"
+  },
+  {
+    "code": "33533",
+    "description": "Coronary artery bypass, single arterial graft",
+    "guideline": "Use add-on codes for additional grafts (33518-33523)"
+  },
+  {
+    "code": "33967",
+    "description": "Insertion of intra-aortic balloon pump",
+    "guideline": "Use additional code for removal if performed separately"
+  },
+  {
+    "code": "35301",
+    "description": "Thromboendarterectomy, carotid",
+    "guideline": "Code also any patch angioplasty if performed"
+  },
+  {
+    "code": "36415",
+    "description": "Collection of venous blood by venipuncture",
+    "guideline": "Do not report with other more specific blood draw codes"
+  },
+  {
+    "code": "36556",
+    "description": "Insertion of central venous catheter",
+    "guideline": "Use additional code for imaging guidance if performed"
+  },
+  {
+    "code": "36569",
+    "description": "Insertion of peripherally inserted central catheter (PICC)",
+    "guideline": "Includes imaging guidance; do not report separately"
+  },
+  {
+    "code": "36620",
+    "description": "Arterial catheterization, percutaneous",
+    "guideline": "Use for arterial line placement for monitoring"
+  },
+  {
+    "code": "37220",
+    "description": "Revascularization, iliac artery, angioplasty",
+    "guideline": "Use additional code for stent placement if performed"
+  },
+  {
+    "code": "43235",
+    "description": "Upper GI endoscopy, diagnostic",
+    "guideline": "Use additional codes for biopsy or other procedures"
+  },
+  {
+    "code": "43239",
+    "description": "Upper GI endoscopy with biopsy",
+    "guideline": "Do not report separately with 43235 same session"
+  },
+  {
+    "code": "43247",
+    "description": "Upper GI endoscopy with foreign body removal",
+    "guideline": "Code also any associated dilation performed"
+  },
+  {
+    "code": "44950",
+    "description": "Appendectomy",
+    "guideline": "Use 44970 for laparoscopic approach"
+  },
+  {
+    "code": "44970",
+    "description": "Laparoscopic appendectomy",
+    "guideline": "Do not use with open appendectomy code for same encounter"
+  },
+  {
+    "code": "45378",
+    "description": "Colonoscopy, diagnostic",
+    "guideline": "Use additional codes for biopsy, polypectomy, or other procedures"
+  },
+  {
+    "code": "45380",
+    "description": "Colonoscopy with biopsy",
+    "guideline": "Do not report separately with 45378 same session"
+  },
+  {
+    "code": "45385",
+    "description": "Colonoscopy with polypectomy, snare technique",
+    "guideline": "Use additional code for multiple polyp removal if different technique"
+  },
+  {
+    "code": "47562",
+    "description": "Laparoscopic cholecystectomy",
+    "guideline": "Use 47563 if cholangiography performed"
+  },
+  {
+    "code": "49505",
+    "description": "Repair of inguinal hernia, initial, reducible",
+    "guideline": "Use 49507 for incarcerated or strangulated hernia"
+  },
+  {
+    "code": "49585",
+    "description": "Repair of umbilical hernia, reducible",
+    "guideline": "Code age-specific guidelines for pediatric vs adult repair"
+  },
+  {
+    "code": "50590",
+    "description": "Lithotripsy, extracorporeal shock wave",
+    "guideline": "Use additional code for stent placement if performed"
+  },
+  {
+    "code": "51702",
+    "description": "Insertion of temporary indwelling bladder catheter",
+    "guideline": "Do not report with more invasive urinary procedures same session"
+  },
+  {
+    "code": "52000",
+    "description": "Cystourethroscopy, diagnostic",
+    "guideline": "Use additional codes for biopsy or other procedures performed"
+  },
+  {
+    "code": "52332",
+    "description": "Cystourethroscopy with insertion of ureteral stent",
+    "guideline": "Code also removal if performed at separate encounter"
+  },
+  {
+    "code": "55700",
+    "description": "Biopsy, prostate, needle or punch",
+    "guideline": "Use additional code for imaging guidance if performed"
+  },
+  {
+    "code": "55866",
+    "description": "Laparoscopic radical prostatectomy",
+    "guideline": "Includes pelvic lymphadenectomy if performed; code separately if extended"
+  },
+  {
+    "code": "57500",
+    "description": "Biopsy of cervix, single or multiple",
+    "guideline": "Use additional code for colposcopy if performed same session"
+  },
+  {
+    "code": "58150",
+    "description": "Total abdominal hysterectomy",
+    "guideline": "Use additional code for bilateral salpingo-oophorectomy if performed"
+  },
+  {
+    "code": "58558",
+    "description": "Hysteroscopy with biopsy",
+    "guideline": "Do not report separately with diagnostic hysteroscopy code"
+  },
+  {
+    "code": "58661",
+    "description": "Laparoscopic salpingo-oophorectomy",
+    "guideline": "Code also any concurrent hysterectomy separately"
+  },
+  {
+    "code": "59400",
+    "description": "Routine obstetric care, vaginal delivery",
+    "guideline": "Includes antepartum and postpartum care; global package code"
+  },
+  {
+    "code": "59510",
+    "description": "Routine obstetric care, cesarean delivery",
+    "guideline": "Global package includes pre and postoperative care"
+  },
+  {
+    "code": "59840",
+    "description": "Induced abortion, dilation and curettage",
+    "guideline": "Verify state-specific coverage and documentation requirements"
+  },
+  {
+    "code": "62270",
+    "description": "Lumbar puncture, diagnostic",
+    "guideline": "Use additional code for imaging guidance if performed"
+  },
+  {
+    "code": "63030",
+    "description": "Laminectomy, single interspace, lumbar",
+    "guideline": "Use add-on code 63035 for each additional interspace"
+  },
+  {
+    "code": "64450",
+    "description": "Injection, anesthetic agent, other peripheral nerve or branch",
+    "guideline": "Use additional code for imaging guidance if performed"
+  },
+  {
+    "code": "64483",
+    "description": "Injection, transforaminal epidural, lumbar/sacral, single level",
+    "guideline": "Use add-on code 64484 for each additional level"
+  },
+  {
+    "code": "64493",
+    "description": "Injection, paravertebral facet joint, lumbar/sacral, single level",
+    "guideline": "Use add-on code 64494 for additional levels"
+  },
+  {
+    "code": "64721",
+    "description": "Carpal tunnel release",
+    "guideline": "Use 64722 for other peripheral nerve decompression"
+  },
+  {
+    "code": "66984",
+    "description": "Cataract surgery with IOL insertion",
+    "guideline": "Use additional code for complex cataract removal if performed"
+  },
+  {
+    "code": "67810",
+    "description": "Biopsy of eyelid",
+    "guideline": "Code also any reconstruction performed separately"
+  },
+  {
+    "code": "69210",
+    "description": "Removal of impacted cerumen, unilateral",
+    "guideline": "Use bilateral modifier or code twice with modifier 50"
+  },
+  {
+    "code": "69436",
+    "description": "Tympanostomy with tube insertion, general anesthesia",
+    "guideline": "Use 69433 if local anesthesia used"
+  },
+  {
+    "code": "70450",
+    "description": "CT scan, head/brain, without contrast",
+    "guideline": "Use 70460 if contrast administered"
+  },
+  {
+    "code": "70551",
+    "description": "MRI, brain, without contrast",
+    "guideline": "Use 70553 for combination without and with contrast"
+  },
+  {
+    "code": "71045",
+    "description": "Chest X-ray, single view",
+    "guideline": "Use 71046 for two views"
+  },
+  {
+    "code": "71250",
+    "description": "CT scan, chest, without contrast",
+    "guideline": "Code also any biopsy performed same session"
+  },
+  {
+    "code": "72110",
+    "description": "X-ray, lumbar spine, minimum 4 views",
+    "guideline": "Use fewer view codes if less than 4 views obtained"
+  },
+  {
+    "code": "72141",
+    "description": "MRI, cervical spine, without contrast",
+    "guideline": "Use 72156 for combination without and with contrast"
+  },
+  {
+    "code": "73030",
+    "description": "X-ray, shoulder, complete",
+    "guideline": "Requires minimum 2 views for complete study"
+  },
+  {
+    "code": "73721",
+    "description": "MRI, knee, without contrast",
+    "guideline": "Document clinical indication supporting medical necessity"
+  },
+  {
+    "code": "74176",
+    "description": "CT scan, abdomen and pelvis, without contrast",
+    "guideline": "Use 74178 for combination without and with contrast"
+  },
+  {
+    "code": "74181",
+    "description": "MRI, abdomen, without contrast",
+    "guideline": "Code also any additional sequences performed"
+  },
+  {
+    "code": "76700",
+    "description": "Ultrasound, abdominal, complete",
+    "guideline": "Requires documentation of all major organs visualized"
+  },
+  {
+    "code": "76705",
+    "description": "Ultrasound, abdominal, limited",
+    "guideline": "Use when specific organ or quadrant only examined"
+  },
+  {
+    "code": "76770",
+    "description": "Ultrasound, retroperitoneal, complete",
+    "guideline": "Document all structures visualized per protocol"
+  },
+  {
+    "code": "76801",
+    "description": "Ultrasound, pregnant uterus, first trimester",
+    "guideline": "Use 76805 for second/third trimester single gestation"
+  },
+  {
+    "code": "76856",
+    "description": "Ultrasound, pelvic, non-obstetric, complete",
+    "guideline": "Use 76857 for limited pelvic ultrasound"
+  },
+  {
+    "code": "77067",
+    "description": "Screening mammography, bilateral",
+    "guideline": "Do not use with diagnostic mammography code same encounter"
+  },
+  {
+    "code": "77080",
+    "description": "DEXA bone density study, axial skeleton",
+    "guideline": "Use for osteoporosis screening or monitoring"
+  },
+  {
+    "code": "78452",
+    "description": "Myocardial perfusion imaging, multiple studies",
+    "guideline": "Code also pharmacologic stress agent if used"
+  },
+  {
+    "code": "80048",
+    "description": "Basic metabolic panel",
+    "guideline": "Includes glucose, calcium, electrolytes, BUN, creatinine"
+  },
+  {
+    "code": "80053",
+    "description": "Comprehensive metabolic panel",
+    "guideline": "Includes basic panel plus liver function tests"
+  },
+  {
+    "code": "80061",
+    "description": "Lipid panel",
+    "guideline": "Includes total cholesterol, HDL, triglycerides, calculated LDL"
+  },
+  {
+    "code": "81001",
+    "description": "Urinalysis, automated with microscopy",
+    "guideline": "Use 81003 if microscopy not performed"
+  },
+  {
+    "code": "82947",
+    "description": "Glucose, quantitative, blood",
+    "guideline": "Use additional code for glucose tolerance test if performed"
+  },
+  {
+    "code": "83036",
+    "description": "Hemoglobin A1c",
+    "guideline": "Use for diabetes monitoring; document result and clinical context"
+  },
+  {
+    "code": "84443",
+    "description": "Thyroid stimulating hormone (TSH)",
+    "guideline": "Use additional code for free T4 if performed"
+  },
+  {
+    "code": "85025",
+    "description": "Complete blood count with differential",
+    "guideline": "Use 85027 if differential not performed"
+  },
+  {
+    "code": "86592",
+    "description": "Syphilis test, qualitative",
+    "guideline": "Use additional code for confirmatory testing if positive"
+  },
+  {
+    "code": "87086",
+    "description": "Urine culture, quantitative",
+    "guideline": "Use additional code for sensitivity testing if performed"
+  },
+  {
+    "code": "87880",
+    "description": "Rapid strep test",
+    "guideline": "Use additional code for throat culture if rapid test negative"
+  },
+  {
+    "code": "88305",
+    "description": "Surgical pathology, gross and microscopic examination, Level IV",
+    "guideline": "Code selection based on specimen complexity"
+  },
+  {
+    "code": "88342",
+    "description": "Immunohistochemistry, first antibody",
+    "guideline": "Use add-on code 88341 for each additional antibody"
+  },
+  {
+    "code": "90471",
+    "description": "Immunization administration, one vaccine",
+    "guideline": "Use add-on code 90472 for each additional vaccine"
+  },
+  {
+    "code": "90632",
+    "description": "Hepatitis A vaccine, adult dosage",
+    "guideline": "Report administration code separately (90471)"
+  },
+  {
+    "code": "90686",
+    "description": "Influenza vaccine, quadrivalent, preservative free",
+    "guideline": "Use age-specific and formulation-specific codes"
+  },
+  {
+    "code": "90715",
+    "description": "Tdap vaccine",
+    "guideline": "Code also administration separately"
+  },
+  {
+    "code": "90837",
+    "description": "Psychotherapy, 60 minutes",
+    "guideline": "Time-based code; document actual session length"
+  },
+  {
+    "code": "90853",
+    "description": "Group psychotherapy",
+    "guideline": "Document number of participants and session content"
+  },
+  {
+    "code": "92004",
+    "description": "Ophthalmological exam, comprehensive, new patient",
+    "guideline": "Use 92014 for established patient comprehensive exam"
+  },
+  {
+    "code": "92133",
+    "description": "Scanning computerized ophthalmic diagnostic imaging, optic nerve",
+    "guideline": "Use for glaucoma monitoring; document bilateral if applicable"
+  },
+  {
+    "code": "92507",
+    "description": "Speech-language therapy, individual",
+    "guideline": "Document treatment plan and progress notes"
+  },
+  {
+    "code": "92920",
+    "description": "Percutaneous coronary intervention, single vessel",
+    "guideline": "Use add-on code 92921 for each additional vessel"
+  },
+  {
+    "code": "93000",
+    "description": "Electrocardiogram, routine, with interpretation and report",
+    "guideline": "Use 93005 if tracing only, no interpretation"
+  },
+  {
+    "code": "93306",
+    "description": "Echocardiography, transthoracic, complete",
+    "guideline": "Includes color flow Doppler; document all views obtained"
+  },
+  {
+    "code": "93458",
+    "description": "Cardiac catheterization, left heart, coronary angiography",
+    "guideline": "Code also any intervention performed separately"
+  },
+  {
+    "code": "93798",
+    "description": "Cardiac rehabilitation, with continuous ECG monitoring",
+    "guideline": "Use per session; document exercise prescription and monitoring"
+  },
+  {
+    "code": "94010",
+    "description": "Spirometry, complete",
+    "guideline": "Use additional code for bronchodilator response if tested"
+  },
+  {
+    "code": "94060",
+    "description": "Spirometry, before and after bronchodilator",
+    "guideline": "Includes pre and post-treatment measurements"
+  },
+  {
+    "code": "94640",
+    "description": "Nebulizer treatment",
+    "guideline": "Use additional code for medication administered"
+  },
+  {
+    "code": "95810",
+    "description": "Polysomnography, sleep staging with 4+ additional parameters",
+    "guideline": "Use for comprehensive sleep study; document all parameters monitored"
+  },
+  {
+    "code": "96116",
+    "description": "Neurobehavioral status exam",
+    "guideline": "Time-based code; document cognitive testing performed"
+  },
+  {
+    "code": "96372",
+    "description": "Therapeutic injection, subcutaneous or intramuscular",
+    "guideline": "Use additional code for medication administered"
+  },
+  {
+    "code": "96413",
+    "description": "Chemotherapy administration, IV infusion, first hour",
+    "guideline": "Use add-on code 96415 for each additional hour"
+  },
+  {
+    "code": "97110",
+    "description": "Therapeutic exercise, each 15 minutes",
+    "guideline": "Time-based code; document specific exercises performed"
+  },
+  {
+    "code": "97140",
+    "description": "Manual therapy techniques, each 15 minutes",
+    "guideline": "Document specific technique and body region treated"
+  },
+  {
+    "code": "97530",
+    "description": "Therapeutic activities, each 15 minutes",
+    "guideline": "Use for dynamic activities improving functional performance"
+  },
+  {
+    "code": "99304",
+    "description": "Initial nursing facility care, per day",
+    "guideline": "Complexity level based on history, exam, and medical decision making"
+  }
+]
